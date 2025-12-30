@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20BSD-green.svg)
 ![Language](https://img.shields.io/badge/language-Bash-orange.svg)
 
-![CryptoBlade Screenshot](screenshot.jpeg)
+![CryptoBlade Screenshot](screenshot.PNG)
 
 **CryptoBlade** is a professional-grade Bash toolkit for penetration testers, security researchers, and developers. Features Base64 encoding/decoding, SHA256/MD5 hashing, file operations, and batch processing with an intuitive sword-themed interface.
 

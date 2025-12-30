@@ -28,6 +28,28 @@ sudo apt update && sudo apt install coreutils -y
 # Arch Linux
 sudo pacman -S coreutils
 
-# macOS
+# macOS / kali
 # Already included by default
+```
+## 🛠️ Installation
 
+Method 1: Git Clone
+```bash
+git clone https://github.com/YOURUSERNAME/CryptoBlade.git
+cd CryptoBlade
+chmod +x cryptoblade.sh
+./cryptoblade.sh
+```
+## ⚠️ Security Notes
+SHA256 recommended over MD5 for security
+Base64 is encoding, NOT encryption
+Use file hashing for integrity verification
+Batch operations create .b64 files automatically
+## 🤝 Contributing
+Fork the repo
+Create feature branch (git checkout -b feature/amazing-feature)
+Commit changes (git commit -am 'Add amazing feature')
+Push (git push origin feature/amazing-feature)
+Open Pull Request
+## 📝 License
+This project is licensed under the MIT License - see LICENSE [blocked] for details.
